@@ -1,6 +1,6 @@
 import java.util.concurrent.CyclicBarrier;
 
-// ThreadLocal使用示例 刘梓江牛逼
+// ThreadLocal使用示例 刘梓江牛逼class
 public class ThreadLocalUtil {
     private static final ThreadLocal<MyThread> testThreadLocal = new ThreadLocal<>();
 
