@@ -8,7 +8,7 @@
     <artifactId>userlogin</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!-- 添加Spring Boot父依赖 -->
+    <!-- 添加Spring Boot父依赖123 -->
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
